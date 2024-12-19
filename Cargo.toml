@@ -1,0 +1,10 @@
+[package]
+name = "bulk_file_processor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+async-channel = "1.6"
+sha2 = "0.10" 
+lazy_static = "1.4"
