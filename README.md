@@ -1,0 +1,1 @@
+An application to experiment with async rust and channels. Scans and processes files in a directory, turning them into a hash and logging the result.
